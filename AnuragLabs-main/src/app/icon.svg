@@ -1,0 +1,33 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="al-icon-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#141729" />
+      <stop offset="100%" stopColor="#0B0D18" />
+    </linearGradient>
+    <linearGradient id="al-icon-primary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#7289DA" />
+      <stop offset="50%" stopColor="#5865F2" />
+      <stop offset="100%" stopColor="#4350DB" />
+    </linearGradient>
+    <linearGradient id="al-icon-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#00F0FF" />
+      <stop offset="100%" stopColor="#00A3FF" />
+    </linearGradient>
+  </defs>
+
+  <!-- Housing Squircle -->
+  <rect x="2" y="2" width="44" height="44" rx="12" fill="url(#al-icon-bg)" stroke="url(#al-icon-primary)" stroke-width="2" />
+
+  <!-- Beaker Flask Silhouette -->
+  <path d="M21 15H17V17.5L11.5 28.5C10.5 30.5 12 33 14.3 33H23.7C26 33 27.5 30.5 26.5 28.5L21 17.5V15Z" stroke="url(#al-icon-cyan)" stroke-width="2.2" stroke-linejoin="round" fill="none" />
+  <path d="M15.5 15H22.5" stroke="url(#al-icon-cyan)" stroke-width="2.2" stroke-linecap="round" />
+
+  <!-- Right 'A' Leg -->
+  <path d="M21 15L35 37" stroke="url(#al-icon-primary)" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="27" y1="22" x2="33" y2="33" stroke="url(#al-icon-cyan)" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Quantum Energy Rings -->
+  <ellipse cx="19" cy="27" rx="4" ry="2" transform="rotate(-25 19 27)" stroke="#00F0FF" stroke-width="1.2" fill="none" />
+  <ellipse cx="19" cy="27" rx="4" ry="2" transform="rotate(35 19 27)" stroke="#00F0FF" stroke-width="1.2" fill="none" />
+  <circle cx="19" cy="27" r="1.5" fill="#FFFFFF" />
+</svg>
